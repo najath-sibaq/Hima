@@ -1,6 +1,5 @@
 # Hackathon Proposal: *HIMA* - A Parental Control App with an Islamic Theme
 
-**Team Name**: [Team Name]  
 **Project Name**: HIMA  
 **Category**: Social Good, Family Safety, Islamic Lifestyle  
 **Project Type**: Mobile Application (Android)
@@ -82,17 +81,6 @@ In today's digital world, parents face challenges in ensuring that their childre
 ## Expected Impact
 
 *HIMA* aims to support Muslim families in cultivating a balanced relationship with technology, rooted in Islamic ethics. By reinforcing moderation, mindfulness, and safety in digital spaces, *HIMA* provides a culturally relevant approach to digital well-being, fostering a safe and productive environment for children.
-
----
-
-## Development Timeline
-
-1. **Phase 1 (Research & Planning)** - 1 week  
-2. **Phase 2 (UI/UX Design)** - 1 week  
-3. **Phase 3 (Core Functionality Development)** - 3 weeks  
-4. **Phase 4 (AI Content Filtering and Notification System)** - 2 weeks  
-5. **Phase 5 (Testing & Iteration)** - 1 week  
-6. **Phase 6 (Launch)** - Hackathon submission
 
 ---
 
